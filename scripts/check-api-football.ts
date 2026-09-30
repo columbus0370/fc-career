@@ -14,7 +14,7 @@ try {
 
 const API_BASE = "https://v3.football.api-sports.io";
 const CACHE_DIR = path.join(process.cwd(), ".cache", "api-football");
-const SEASON = 2026;
+const SEASON = 2024;
 const TARGET_LEAGUE_NAMES = [
   "Premier League",
   "Championship",
